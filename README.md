@@ -1,32 +1,34 @@
 # 🎓 University Beginner Projects
 
 This repository contains my **early semester projects** (Semester 1–2) developed during my Computer Science degree.  
-These projects are mostly written in **C and C++** and represent my **initial learning journey** into programming, problem-solving, and object-oriented concepts.
+These projects represent my **first hands-on experience** with programming in **C and C++**, covering the basics of problem-solving, object-oriented programming, and simple console-based management systems.
 
 ---
 
 ## 📂 Contents
-The repository is organized into subfolders, each containing a small project or lab assignment:
 
-- **Basic C++ Programs** → simple input/output, loops, conditionals  
-- **Functions & Arrays** → practice with modular code and data handling  
-- **Pointers & Memory** → introduction to low-level concepts  
-- **Object-Oriented Programming (OOP)** → classes, objects, and basic inheritance  
-- **Mini Projects** → small console-based applications (e.g., calculators, number systems, student records)
+The repository is organized into subfolders, each containing a project:
+
+- **📘 Book Shop System** – a simple console-based system to manage book records, including adding, searching, and displaying details.  
+- **📚 Book Store Management** – an extended version of book management, focusing on stock updates and simple transaction handling.  
+- **🍔 Food Stock Management System** – a basic inventory management application to add, remove, and track food items in stock.  
+- **⚙️ Other Mini Projects** – practice programs built while learning loops, arrays, functions, pointers, and OOP fundamentals.
 
 ---
 
 ## 🎯 Purpose
-These projects are **not portfolio highlights**, but they serve as a record of my **foundation in programming**.  
-They reflect my **growth from beginner-level coding** to more advanced projects later in my degree.
+
+The aim of this repository is to showcase my **learning journey from scratch**.  
+While these projects are **not advanced portfolio highlights**, they reflect how I started with small, structured problems and gradually moved towards building larger applications.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: C, C++  
+- **Concepts Used**: Procedural programming, OOP basics (classes, objects, constructors, inheritance)  
 - **Tools**: Dev C++, Code::Blocks, Visual Studio  
 
 ---
 
 ## 📌 Note
-If you're interested in my **intermediate and advanced projects** (AI/ML, Data Science, Flutter applications, Final Year Project, etc.), please check my other repositories.
+For my **intermediate and advanced projects** (AI/ML, Data Science, Flutter apps, Final Year Project, etc.), please explore my other repositories.
